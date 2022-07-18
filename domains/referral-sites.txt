@@ -73,3 +73,4 @@ goto.target.com
 google-analytics.com
 www.google-analytics.com
 ssl.google-analytics.com
+www.shareasale.com
