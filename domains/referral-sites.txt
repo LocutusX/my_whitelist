@@ -76,6 +76,3 @@ ssl.google-analytics.com
 www.shareasale.com
 www.googletagservices.com
 dpm.demdex.net
-static.criteo.net
-sslwidget.criteo.com
-c.go-mpulse.net
