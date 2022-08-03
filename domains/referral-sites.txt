@@ -76,3 +76,4 @@ ssl.google-analytics.com
 www.shareasale.com
 www.googletagservices.com
 dpm.demdex.net
+c.go-mpulse.net
