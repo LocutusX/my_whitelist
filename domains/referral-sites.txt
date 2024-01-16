@@ -77,3 +77,4 @@ www.shareasale.com
 www.googletagservices.com
 dpm.demdex.net
 logs.netflix.com
+adconsent.samsungrs.com
