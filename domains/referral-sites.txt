@@ -73,10 +73,8 @@ go.skimresources.com
 goto-target-com.customtraffic.impactradius.com
 goto.target.com
 google-analytics.com
-www.google-analytics.com
-ssl.google-analytics.com
 www.shareasale.com
 www.googletagservices.com
 dpm.demdex.net
-logs.netflix.com
+netflix.com
 adconsent.samsungrs.com
