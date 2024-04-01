@@ -76,5 +76,8 @@ google-analytics.com
 www.shareasale.com
 www.googletagservices.com
 dpm.demdex.net
-netflix.com
+beacon.netflix.com
+logs.netflix.com
+nmtracking.netflix.com
+presentationtracking.netflix.com
 adconsent.samsungrs.com
