@@ -81,3 +81,4 @@ logs.netflix.com
 nmtracking.netflix.com
 presentationtracking.netflix.com
 adconsent.samsungrs.com
+alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
