@@ -82,3 +82,6 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 adconsent.samsungrs.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+mask.icloud.com
+mask-h2.icloud.com
+mask-canary.icloud.com
